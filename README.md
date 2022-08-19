@@ -2,7 +2,7 @@
 Comic Reading done easy
 
 SHORTCUTS:
-Back           ||   Alt + Left
+Back           ||   Alt + Left \n
 Forward        ||   Alt + Right
 Home           ||   Ctrl + E
 Reload         ||   Ctrl + R
